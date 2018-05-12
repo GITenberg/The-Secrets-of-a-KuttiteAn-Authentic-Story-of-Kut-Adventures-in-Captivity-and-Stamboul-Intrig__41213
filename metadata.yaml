@@ -1,0 +1,29 @@
+_repo: The-Secrets-of-a-KuttiteAn-Authentic-Story-of-Kut-Adventures-in-Captivity-and-Stamboul-Intrig__41213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mousley, Edward O. (Edward Opotiki)
+    alias: Mousley, E. O. (Edward Opotiki)
+    birthdate: 1886
+    gutenberg_agent_id: '41039'
+    url: http://www.gutenberg.org/2009/agents/41039
+description: ''
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, Turkish'
+- !lcc 'D501'
+- !lcsh 'Al Kut (Iraq) -- History -- Siege, 1915-1916'
+title: 'The Secrets of a Kuttite
+
+  An Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue'
+url: http://www.gutenberg.org/ebooks/41213
