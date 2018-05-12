@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41039'
     url: http://www.gutenberg.org/2009/agents/41039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41213#The-Secrets-of-a-KuttiteAn-Authentic-Story-of-Kut-Adventures-in-Captivity-and-Stamboul-Intrig_
 gutenberg_issued: '2012-10-28'
 gutenberg_type: Text
 identifiers:
